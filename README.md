@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js and Node.js.
 - 💞️ I’m looking for a Web Development or Web Designing Job.
 - 📫 How to reach me?
-- # Contact me @ vatsalsaxena22@gmail.com
+- 📧 _Contact me @ vatsalsaxena22@gmail.com_
 
 
 
