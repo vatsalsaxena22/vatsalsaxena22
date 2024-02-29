@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *Vatsal Saxena*.
+- 👋 Hi, I’m **Vatsal Saxena**.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning React.js and Node.js.
 - 💞️ I’m looking for a Web Development or Web Designing Job.
