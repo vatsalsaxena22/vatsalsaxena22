@@ -1,6 +1,6 @@
 # ✨ Vatsal Saxena ✨
 > ## A Full Stack Developer
-### Contact me @ ==vatsalsaxena22@gmail.com==
+### Contact me @ *vatsalsaxena22@gmail.com*
 
 
 <!---
