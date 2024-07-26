@@ -1,11 +1,6 @@
-- 👋 Hi, I’m **Vatsal Saxena**.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React.js and Node.js.
-- 💞️ I’m looking for a Front-End Developer Job.
-- 📫 How to reach me?
-- 📧 _Contact me @ vatsalsaxena22@gmail.com_
-
-
+# ✨ Vatsal Saxena ✨
+> ## A Full Stack Developer
+### Contact me @ ==vatsalsaxena22@gmail.com
 
 
 <!---
