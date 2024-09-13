@@ -7,7 +7,7 @@
 <h2 align="center"><code>A Full Stack Developer</code></h2>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/vatsalsaxena">
+  <a href="https://linkedin.com/in/vatsalsaxena">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 - 💻 Currently, I'm working as a Full Stack Developer At **Enkidu Technologies Pvt. Ltd.**, utilizing my expertise in AI and CMS to develop robust websites.
 - ✍️ Check out my [Portfolio](https://vatsalsaxena22.github.io/myPortfolio/)
 - ⚡ Proficient in MERN Stack and CMS Stack.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Vatsal&nbsp;Saxena-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedIn-Url)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Vatsal&nbsp;Saxena-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vatsalsaxena)
 
 ---
 
