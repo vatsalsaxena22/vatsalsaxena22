@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 - 💻 Currently, I'm working as a Full Stack Developer At **Enkidu Technologies Pvt. Ltd.**, utilizing my expertise in AI and CMS to develop robust websites.
 - ✍️ Check out my [Portfolio](https://vatsalsaxena22.github.io/myPortfolio/)
 - ⚡ Proficient in MERN Stack and CMS Stack.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Vatsal&nbsp;Saxena-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vatsalsaxena)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Vatsal&nbsp;Saxena-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vatsalsaxena) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Vatsal&nbsp;Saxena-red?style=flat&logo=Gmail&logoColor=white)](vatsalsaxena22@gmail.com)
 
 ---
 
