@@ -18,11 +18,11 @@
 
 ### :man_technologist: About Me :
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India :india:
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer :computer: from India :india:
 , specializing in JavaScript. 
 
 - 💻 Currently, I'm working as a Full Stack Developer At **Enkidu Technologies Pvt. Ltd.**, utilizing my expertise in AI and CMS to develop robust websites.
-- ✍️ Check out my [Portfolio](https://vatsalsaxena22.github.io/myPortfolio/)
+- ✍️ Check out my [![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=flat)](https://vatsalsaxena22.github.io/myPortfolio/)
 - ⚡ Proficient in MERN Stack and CMS Stack.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Vatsal&nbsp;Saxena-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vatsalsaxena) &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Vatsal&nbsp;Saxena-red?style=flat&logo=Gmail&logoColor=white)](mailto:vatsalsaxena22@gmail.com)
 
@@ -52,9 +52,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalsaxena22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### Contact me @ *vatsalsaxena22@gmail.com*
 
 
 
