@@ -1,7 +1,7 @@
 <h1 align="center">✨ Vatsal Saxena ✨</h1>
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1vdDBwNjZqejdzeXF4djdicnpnbXFuejIzd2k4cng0cmU2eXE3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYxb3Rjam84ZnRraHQ3emNqZjJkNWEyYWEzZzkzZDV3M2ozdm50YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/htQ2oa93vio51eRi9L/giphy.gif" width="100"/>
 </div>
 
 <h2 align="center"><code>A Full Stack Developer</code></h2>
@@ -35,6 +35,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer :computer: f
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="GitHub" alt="PHP" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="GitHub" alt="MySQL" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
