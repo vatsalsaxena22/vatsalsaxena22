@@ -1,9 +1,5 @@
 <h1 align="center">✨ Vatsal Saxena ✨</h1>
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYxb3Rjam84ZnRraHQ3emNqZjJkNWEyYWEzZzkzZDV3M2ozdm50YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/htQ2oa93vio51eRi9L/giphy.gif" width="100"/>
-</div>
-
 <h2 align="center"><code>A Full Stack Developer</code></h2>
 
 <div id="badges">
