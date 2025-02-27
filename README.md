@@ -50,7 +50,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer :computer: f
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=vatsalsaxena22&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalsaxena22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
