@@ -32,6 +32,7 @@ I work with CMS platforms such as WordPress, Blogger, and Hostinger, and use fra
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown"  alt="Markdown" width="50" height="50"/>&nbsp;
 </div>
@@ -44,6 +45,8 @@ I work with CMS platforms such as WordPress, Blogger, and Hostinger, and use fra
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify"  alt="Netlify" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel"  alt="Vercel" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jekyll/jekyll-original.svg" title="Jekyll"  alt="Jekyll" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache"  alt="Apache" width="50" height="50"/>&nbsp;
 </div>
 
 ### 📚 Libraries & Frameworks:
@@ -63,7 +66,8 @@ I work with CMS platforms such as WordPress, Blogger, and Hostinger, and use fra
 
 ### 📂 Database:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDB"  alt="mongoDB" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
 </div>
 
 ### 🌏 Others:
@@ -86,7 +90,9 @@ I work with CMS platforms such as WordPress, Blogger, and Hostinger, and use fra
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalsaxena22&theme=algolia) ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsalsaxena22&theme=algolia&utcOffset=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vatsalsaxena22&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=vatsalsaxena22&theme=algolia)
+
+
 
 <!---
 vatsalsaxena22/vatsalsaxena22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
