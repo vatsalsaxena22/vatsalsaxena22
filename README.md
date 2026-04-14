@@ -76,29 +76,17 @@ I work with CMS platforms such as WordPress, Blogger, and Hostinger, and use fra
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" alt="Mongoose" width="50" height="50"/>&nbsp;
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ### 🔥 My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalsaxena22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalsaxena22&theme=algolia)
 
+![Repo per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vatsalsaxena22&theme=algolia) ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vatsalsaxena22&theme=algolia)
 
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalsaxena22&theme=algolia) ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vatsalsaxena22&theme=algolia&utcOffset=8)
 
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=vatsalsaxena22&theme=tokyonight)
 
 <!---
 vatsalsaxena22/vatsalsaxena22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
