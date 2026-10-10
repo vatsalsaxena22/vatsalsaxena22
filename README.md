@@ -113,8 +113,6 @@ WordPress · WooCommerce · CMS development · Client websites
 
 <br />
 
-## 🚀 Selected Projects
-
 <!-- SELECTED PROJECTS -->
 
 ## 🚀 Selected Projects & Digital Products
