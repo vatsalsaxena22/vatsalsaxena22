@@ -1,11 +1,6 @@
-<!--
-  VATSAL SAXENA — GITHUB PROFILE README (v2)
-  Place this file at: vatsalsaxena22/vatsalsaxena22 → README.md
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0B1220,50:172554,100:2563EB&text=Vatsal%20Saxena&fontColor=FFFFFF&fontSize=60&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20WEB%20ENGINEER&descSize=14&descAlignY=64&animation=fadeIn" width="100%" alt="Vatsal Saxena — Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&section=header&height=240&color=0:0B1220,50:172554,100:2563EB&text=Vatsal%20Saxena&fontColor=FFFFFF&fontSize=60&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER&descSize=14&descAlignY=64&animation=fadeIn" width="100%" alt="Vatsal Saxena — Full Stack Developer" />
 
 <a href="https://github.com/vatsalsaxena22">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=720&lines=Building+digital+experiences.;Engineering+practical+solutions.;Responsive+UI+%E2%80%A2+Backend+systems+%E2%80%A2+APIs." alt="Building digital experiences. Engineering practical solutions." />
